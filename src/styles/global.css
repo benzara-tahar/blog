@@ -27,10 +27,10 @@
 
 		&[data-theme="dark"] {
 			color-scheme: dark;
-			--color-global-bg: oklch(23.64% 0.0045 248);
+			--color-global-bg: oklch(0.21 0.0072 164.2);
 			--color-global-text: oklch(83.54% 0 264);
 			--color-link: oklch(70.44% 0.1133 349);
-			--color-accent: oklch(70.91% 0.1415 163.7);
+			--color-accent: oklch(0.7 0.1692 152.65);
 			--color-accent-2: oklch(94.66% 0 0);
 			--color-quote: oklch(94.8% 0.106 136.49);
 		}

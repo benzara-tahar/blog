@@ -7,7 +7,7 @@ tags: ["introduction", "personal", "tech"]
 
 # Hello, World!
 
-Welcome to my corner of the internet! I'm **Lahcene Benzara**, a software engineer with a passion for technology, problem-solving, and continuous learning. After years of consuming content from the tech community, I've decided it's time to give back by sharing my own experiences, insights, and learnings.
+Welcome to my corner of the internet! I'm **Lahcene**, a software engineer with a passion for technology, problem-solving, and continuous learning. After years of consuming content from the tech community, I've decided it's time to give back by sharing my own experiences, insights, and learnings.
 
 ## Why Start a Blog Now?
 
